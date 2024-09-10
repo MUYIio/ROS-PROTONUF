@@ -43,3 +43,4 @@ cd ~/work/ros_protobuf_msg/docker/scripts
 ./ros_docker_into.sh
 rosrun myproject pb_listener
 ```
+最后实现两个窗口发送接收信息
